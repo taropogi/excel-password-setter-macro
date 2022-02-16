@@ -2,4 +2,4 @@
 
 Set password by bulk
 
-password: yourpassword
+password: password
